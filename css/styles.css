@@ -1,7 +1,7 @@
 #title {
   background-color: #ff4c68;
   color: #fff;
-  padding: 450px;
+  padding-bottom: 500px;
 }
 
 .container-fluid{
@@ -31,7 +31,6 @@ p {
 
 .iphone {
   transform: rotate(20deg);
-  width: 20%;
   position: absolute;
 }
 .fatty2 {
