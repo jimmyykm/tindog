@@ -136,3 +136,36 @@ color: #ff4c68;
     transform: rotate(0);
   }
 }
+
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  font-family: "Montserrat";
+  font-size: 1rem;
+  padding: 7% 15%;
+}
+
+#footer {
+
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 0.5rem;
+  padding-bottom: 7% 15%;
+
+}
+
+.cta-heading {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  font-style: italic;
+}
+
+.social-icon {
+  margin: 30px 30px;
+
+}
+
+.bottom-download {
+  margin: 5% 5%;
+}
