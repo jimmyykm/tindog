@@ -1,7 +1,6 @@
 #title {
   background-color: #ff4c68;
   color: #fff;
-  padding-bottom: 500px;
 }
 
 .container-fluid{
@@ -126,4 +125,14 @@ color: #ff4c68;
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+@media (max-width:990px) {
+  #title {
+    text-align: center;
+  }
+  .iphone {
+    position: static;
+    transform: rotate(0);
+  }
 }
